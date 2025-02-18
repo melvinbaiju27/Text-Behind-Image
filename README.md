@@ -8,3 +8,5 @@
 - **remove.bg**: Utilizes this powerful API to remove backgrounds from images, making it easier to overlay and manage text.
 - **HTML/CSS**: Implements a clean and responsive frontend for users to interact with the application.
 
+## Project Demo
+![Image](https://github.com/user-attachments/assets/64c78137-12ab-4b11-9b6d-6d2dfd697d17)
